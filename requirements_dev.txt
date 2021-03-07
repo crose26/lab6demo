@@ -1,5 +1,3 @@
-folium
-ipleaflet
 pip
 bump2version
 wheel
