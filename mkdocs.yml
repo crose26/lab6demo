@@ -48,3 +48,5 @@ nav:
           - lab6demo module: lab6demo.md
     - Notebooks:
             -folium intro: notebooks\folium_intro.ipynb
+            -example notebook: notebooks\Example Notebook.ipynb
+            -Untitled: notebooks\Untitled.ipynb
