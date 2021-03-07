@@ -50,3 +50,5 @@ nav:
             -folium intro: notebooks\folium_intro.ipynb
             -example notebook: notebooks\Example Notebook.ipynb
             -Untitled: notebooks\Untitled.ipynb
+            -Test: notebooks\test.ipynb
+            
