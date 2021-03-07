@@ -47,4 +47,4 @@ nav:
     - API Reference:
           - lab6demo module: lab6demo.md
     - Notebooks:
-            - notebooks\folium_intro.ipynb
+            -folium intro: notebooks\folium_intro.ipynb
