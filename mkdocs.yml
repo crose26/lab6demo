@@ -51,3 +51,4 @@ nav:
             - example notebook: notebooks/Example Notebook.ipynb
             - Untitled: notebooks/Untitled.ipynb
             - Test: notebooks/test.ipynb
+            - Lab7: notebooks/Lab6demo_Intro.ipynb
