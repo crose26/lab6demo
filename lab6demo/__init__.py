@@ -5,3 +5,4 @@ __email__ = 'crose26@vols.utk.edu'
 __version__ = '0.0.2'
 
 from .lab6demo import *
+from .utils import *
