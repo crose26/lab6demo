@@ -47,8 +47,6 @@ nav:
     - API Reference:
           - lab6demo module: lab6demo.md
     - Notebooks:
-            - folium intro: notebooks/folium_intro.ipynb
-            - example notebook: notebooks/Example Notebook.ipynb
-            - Untitled: notebooks/Untitled.ipynb
-            - Test: notebooks/test.ipynb
-            - Lab7: notebooks/Lab6demo_Intro.ipynb
+            - Shapefile Demo: notebooks/Shapefile_Demo.ipynb
+            - Folium_Intro: notebooks/folium_intro.ipynb
+            - Lab6Demo: notebooks/Lab6demo_Intro.ipynb
